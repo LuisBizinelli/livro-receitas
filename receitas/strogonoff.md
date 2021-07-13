@@ -28,6 +28,7 @@ _italico_
 
 
 ###Modo de preparo
+
     **Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
     Em uma frigideira grande, derreta a manteiga e doure a cebola.
